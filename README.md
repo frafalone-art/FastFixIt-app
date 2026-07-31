@@ -23,18 +23,6 @@ The platform provides a simple workflow:
 
 ---
 
-# 📸 Application Preview
-*A visual look inside the FastFixIt ecosystem, user interface, and professional workflow.*
-
-<p align="center">
-  <!-- Sostituisci i nomi dei file se hai screenshot reali nella cartella assets o media -->
-  <img src="assets/Screenshot_UI_1.png" width="30%" alt="FastFixIt Interface 1" onerror="this.style.display='none'">
-  <img src="assets/Screenshot_UI_2.png" width="30%" alt="FastFixIt Interface 2" onerror="this.style.display='none'">
-  <img src="assets/Screenshot_UI_3.png" width="30%" alt="FastFixIt Interface 3" onerror="this.style.display='none'">
-</p>
-
----
-
 # ✨ Features
 
 * User and provider accounts
