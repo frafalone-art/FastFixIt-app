@@ -1,4 +1,4 @@
-# FastFixIt 🔧
+# <img src="assets/logo.png" width="42" align="center"> FastFixIt
 
 FastFixIt is a platform that connects customers with local professionals for maintenance, repair, and home services.
 
@@ -20,6 +20,18 @@ The platform provides a simple workflow:
 * Chat directly inside the app
 * Receive updates in real time
 * Leave reviews after completed jobs
+
+---
+
+# 📸 Application Preview
+*A visual look inside the FastFixIt ecosystem, user interface, and professional workflow.*
+
+<p align="center">
+  <!-- Sostituisci i nomi dei file se hai screenshot reali nella cartella assets o media -->
+  <img src="assets/Screenshot_UI_1.png" width="30%" alt="FastFixIt Interface 1" onerror="this.style.display='none'">
+  <img src="assets/Screenshot_UI_2.png" width="30%" alt="FastFixIt Interface 2" onerror="this.style.display='none'">
+  <img src="assets/Screenshot_UI_3.png" width="30%" alt="FastFixIt Interface 3" onerror="this.style.display='none'">
+</p>
 
 ---
 
@@ -47,9 +59,7 @@ FastFixIt is currently available for Android.
 
 The platform includes modern security protocols.
 
-For security reports please see:
-
-SECURITY.md
+For security reports please see: [SECURITY.md](./SECURITY.md)
 
 ---
 
@@ -68,15 +78,13 @@ Documentation files are available inside the `/docs` directory.
 # 📬 Contact
 
 For support, privacy requests, account deletion requests, or business inquiries:
-
-[assistenza@fastfixit.it](mailto:assistenza@fastfixit.it)
+👉 **[assistenza@fastfixit.it](mailto:assistenza@fastfixit.it)**
 
 ---
 
 # ⚠️ Disclaimer
 
 FastFixIt acts as a technology platform connecting customers and independent service providers.
-
 Service providers operate independently and remain responsible for the services they offer.
 
 ---
@@ -84,17 +92,13 @@ Service providers operate independently and remain responsible for the services 
 # 👨‍💻 Authors
 
 **Adriano Falone**
-
 Founder of FastFixIt.
 
 **Francesco Falone**
-
-Developer of FastFixIt.
+Developer of FastFixIt — Full-stack & Mobile architecture.
 
 ---
 
 # 📄 License
 
-Copyright (c) 2026 FastFixIt
-
-All rights reserved.
+Copyright (c) 2026 FastFixIt. All rights reserved.
