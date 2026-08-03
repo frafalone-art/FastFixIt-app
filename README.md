@@ -4,7 +4,7 @@ FastFixIt is a platform that connects customers with local professionals for mai
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)
 ![Version](https://img.shields.io/badge/Version-1.0.3-purple)
-![Made%20in](https://img.shields.io/badge/Made%20in-Italy-0066CC)
+![Made%20in](https://img.shields.io/badge/Made%20in-Italy-green)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-maroon)](LICENSE)
 
 ---
