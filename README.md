@@ -12,7 +12,7 @@ FastFixIt is a platform that connects customers with local professionals for mai
 # 📸 Screenshots & Gameplay
 
 <p align="center">
-  <img src="media/Screenshot_01.png" width="45%"  height="10%" alt="Void Raiders Gameplay 1">
+  <img src="media/Screenshot_01.jpeg" width="45%"  height="10%" alt="Void Raiders Gameplay 1">
   <img src="media/Screenshot_02.png" width="45%"  height="10%" alt="Void Raiders Gameplay 2">
 </p>
 <p align="center">
