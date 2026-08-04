@@ -12,6 +12,7 @@ FastFixIt is a platform that connects customers with local professionals for mai
 # 📸 Screenshots 
 
 📱 Click here to have a preview of FastFixIt!
+[Screeshot_01](./media/Screenshot_01.jpeg) 
 
 ---
 
