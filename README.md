@@ -1,4 +1,4 @@
-# <img src="assets/logo.png" width="42" align="center"> FastFixIt
+# <img src="media/logo.png" width="42" align="center"> FastFixIt
 
 FastFixIt is a platform that connects customers with local professionals for maintenance, repair, and home services.
 
@@ -6,6 +6,23 @@ FastFixIt is a platform that connects customers with local professionals for mai
 ![Version](https://img.shields.io/badge/Version-1.0.3-purple?logo=playstore)
 ![Made%20in](https://img.shields.io/badge/Made%20in-Italy-green)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-maroon)](LICENSE)
+
+---
+
+# 📸 Screenshots & Gameplay
+
+<p align="center">
+  <img src="media/Screenshot_01.png" width="45%" alt="Void Raiders Gameplay 1">
+  <img src="media/Screenshot_02.png" width="45%" alt="Void Raiders Gameplay 2">
+</p>
+<p align="center">
+  <img src="media/Screenshot_03.png" width="45%" alt="Void Raiders Gameplay 3">
+  <img src="media/Screenshot_04.png" width="45%" alt="Void Raiders Gameplay 4">
+</p>
+
+<p align="center">
+  <img src="media/cover.png" width="92%" alt="Void Raiders Cover">
+</p>
 
 ---
 
