@@ -2,7 +2,7 @@
 
 FastFixIt is a platform that connects customers with local professionals for maintenance, repair, and home services.
 
-![Download on](https://img.shields.io/badge/Download-on-Play-Store-3DDC84?logo=googleplay)
+![Google Play](https://img.shields.io/badge/Download-on-Play-Store-3DDC84?logo=googleplay)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)
 ![Version](https://img.shields.io/badge/Version-1.0.3-3B82F6?logo=)
 ![Made%20in](https://img.shields.io/badge/Made%20in-Italy-green)
