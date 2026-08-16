@@ -4,7 +4,7 @@ FastFixIt is a platform that connects customers with local professionals for mai
 
 ![Google Play](https://img.shields.io/badge/Download%20on-Play%20Store-01875F?logo=googleplay&logoColo=01875F)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)](https://www.android.com)
-[![Flutter](https://img.shields.io/badge/Flutter-UI-08589C?logo=Flutter)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-UI-08589C?logo=Flutter&logoColor=cyan)](https://flutter.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-maroon)](LICENSE)
