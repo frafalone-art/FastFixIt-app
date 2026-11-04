@@ -8,8 +8,6 @@ FastFixIt is a platform that connects customers with local professionals for mai
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-maroon)](LICENSE)
-[![Instagram](https://img.shields.io/badge/Instagram-@fastfixit.it-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fastfixit.it/)
-[![Facebook](https://img.shields.io/badge/Facebook-FastFixIt-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61594872913152)
 
 ---
 
@@ -93,9 +91,9 @@ For support, privacy requests, account deletion requests, or business inquiries:
 Follow FastFixIt for news and updates:
 
 <p>
-  <a href="https://www.instagram.com/fastfixit.it/"><img src="https://img.shields.io/badge/Instagram-@fastfixit.it-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61594872913152"><img src="https://img.shields.io/badge/Facebook-FastFixIt-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://github.com/frafalone-art/FastFixIt-app"><img src="https://img.shields.io/badge/GitHub-FastFixIt--app-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/fastfixit.it/"><img src="./media/instagram-button.svg" height="44" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61594872913152"><img src="./media/facebook-button.svg" height="44" alt="Facebook" /></a>
 </p>
 
 ---
