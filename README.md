@@ -90,11 +90,8 @@ For support, privacy requests, account deletion requests, or business inquiries:
 
 Follow FastFixIt for news and updates:
 
-<p>
-  <a href="https://www.instagram.com/fastfixit.it/"><img src="./media/instagram-button.svg" height="44" alt="Instagram" /></a>
-  &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61594872913152"><img src="./media/facebook-button.svg" height="44" alt="Facebook" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fastfixit.it/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61594872913152)
 
 ---
 
