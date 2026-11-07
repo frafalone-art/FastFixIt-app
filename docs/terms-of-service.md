@@ -23,7 +23,7 @@ The service is intended for users in Italy, Switzerland, San Marino, and Vatican
 
 ## 3. Service Operator
 
-The service is operated by Adriano Falone, [address], [tax code / VAT number].
+The service is operated by Adriano Falone.
 For any request: [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
 
 ---
