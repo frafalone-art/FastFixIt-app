@@ -13,7 +13,7 @@ The data controller is Adriano Falone, reachable at [assistenza@fastfixit.it](ma
 
 The service is intended for users in Italy, Switzerland, San Marino, and Vatican City.
 
-For the full Privacy Policy visit our website: [www.fastfixit.it/privacy](www.fastfixit.it/privacy)
+For the full Privacy Policy visit our website: www.fastfixit.it/privacy
 
 ---
 
