@@ -8,7 +8,7 @@ Last updated: November 2026
 ## 1. Acceptance of Terms
 
 By using FastFixIt, you fully accept these Terms of Service. If you do not agree, please do not use the application.
-The full ToS are found on our official website: [www.fastfixit.it/terms](www.fastfixit.it/terms)
+The full ToS are found on our official website: www.fastfixit.it/terms
 
 ---
 
