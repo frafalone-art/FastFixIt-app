@@ -1,131 +1,96 @@
 # Privacy Policy
 
-**FastFixIt** – Your app for finding local professionals
-Last updated: November 2026
+**FastFixIt** – Last updated: November 2026 · Version 2.1
+
+> **Note.** This is a reference copy for GitHub. The complete and up-to-date Privacy Policy is published on the website: <https://fastfixit.it/privacy>
 
 ---
 
-## 1. Who We Are
+> **In short.** We collect the data needed to register you, help you find professionals, send requests and chat. We do not sell your data. We use technical providers (database, hosting, email, notifications, maps, photo checks). Chats are **not end-to-end encrypted**. You can delete your account at any time.
 
-FastFixIt is a mobile application (Android) connecting clients with local professionals for maintenance, repair, and installation services.
+## 1. Data controller
 
-The data controller is Adriano Falone, reachable at [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
+The data controller is **Adriano Falone**, owner of FastFixIt (FastFixIt app and [fastfixit.it](https://fastfixit.it) website), who can be reached at [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it). No Data Protection Officer has been appointed because it is not mandatory (Art. 37 GDPR). This notice is provided under Articles 13 and 14 of Regulation (EU) 2016/679 (GDPR) and Italian Legislative Decree 196/2003.
 
-The service is intended for users in Italy, Switzerland, San Marino, and Vatican City.
+## 2. Data we collect
 
-For the full Privacy Policy visit our website: www.fastfixit.it/privacy
+- **Registration:** first name, last name, username, email, password (stored only as a bcrypt hash, never in plain text), phone number, address.
+- **Professional data (Providers):** business name, owner's first and last name, VAT number, professional category, description, any data or documents provided for a check. If a Client becomes a Provider with the same account, we collect the same professional data.
+- **Profile photo (if any):** the image (JPEG, PNG or WebP) you choose to upload. It is optional. Before saving it we resize it and remove its metadata (for example camera data and GPS location); we check it automatically to detect inappropriate content (see section 5).
+- **Location:** only with your explicit consent, to show you nearby professionals. The address you enter may be converted into coordinates (see section 5). For Providers the coordinates (from GPS, if you allow it, or derived from the business address) are saved in the profile, because without coordinates the profile does not appear in nearby searches; if they are missing, the app asks for them again at a later login. For Clients the position is used only at the time of the search and is not saved in the profile.
+- **Requests, messages and reviews:** service requests, text messages exchanged in chat, reviews and ratings.
+- **Blocks and reports:** the Users you block or report, the reason given, and reports concerning you.
+- **Measures:** if your account is suspended or banned, the reason, duration and date.
+- **One-time codes (OTP):** sent by email to verify your address; they are short-lived and allow a limited number of attempts.
+- **Technical data:** your device's push notification token (FCM); session tokens (kept as hashes after logout); IP address and security logs used for request limits and abuse prevention.
 
----
+The app does **not process payments** or card data, and does not ask you for special categories of data (health, religion, political opinions, sexual orientation): please do not enter them in chats and descriptions.
 
-## 2. Data We Collect
+## 3. Why we use it and on what basis
 
-**Account data (all users)**
-- Username, email address, password (stored only as a bcrypt hash, never in clear text), account type (client or provider), email verification status, the date you confirmed you are at least 16, and the registration date.
-
-**Client profile**
-- First name, last name, phone number, address (street, city, province), and an optional profile photo.
-
-**Provider profile**
-- Business name, owner's first and last name, phone number, VAT number, business address (street, city, province), service categories, description, an optional profile photo, ratings, and location coordinates (see section 4).
-
-**Messages and service data**
-- Service requests and their status, jobs, in-app chat messages exchanged between clients and providers (text only), and reviews and ratings.
-
-**Profile photos**
-- The image you upload. We resize it and remove its metadata (such as camera data and GPS location) before saving. Your photo is visible to other users of the app.
-
-**Safety and moderation data**
-- Blocks between users, reports of users and reviews (reason and optional description), suspensions (reason and duration), and a log of administrator actions.
-
-**Technical data**
-- Your device's push notification token; your IP address, processed to protect the service (rate limiting and security logs); one-time email codes (valid for 15 minutes); and a hash of login tokens that have been signed out, kept until they expire.
-
----
-
-## 3. How We Use Your Data and Legal Basis
-
-| Purpose | Legal basis (GDPR) |
+| Purpose | Legal basis |
 |---|---|
-| Provide the app's features (search, service requests, chat, reviews) | Performance of the contract (Art. 6(1)(b)) |
-| Verify your email with a one-time code and send service messages (verification, password reset, notifications) | Performance of the contract (Art. 6(1)(b)) |
-| Show nearby professionals using your location | Your consent (Art. 6(1)(a)), given through the phone's permission |
-| Keep the platform safe: security, rate limiting, fraud prevention, moderation of reports, reviews and photos, suspension of abusive accounts | Our legitimate interest in a safe platform (Art. 6(1)(f)) |
-| Comply with legal obligations | Legal obligation (Art. 6(1)(c)) |
+| Creating the account, verifying email (OTP), authenticating you | Contract (Art. 6.1.b) |
+| Provider search, requests, chat, notifications, reviews, profile visible to other Users | Contract (Art. 6.1.b) |
+| Service communications (password reset, maintenance, security) | Contract (Art. 6.1.b) |
+| Location and profile photo | Consent (Art. 6.1.a), revocable |
+| Automated check of profile photos (inappropriate content, names or logos of other businesses) | Legitimate interest in platform safety (Art. 6.1.f) |
+| Checks on Providers (including VAT number), reports, blocks, suspensions and bans | Legitimate interest in safety and reliability (Art. 6.1.f); legal obligation where applicable |
+| Security, request limits, prevention of fraud and attacks | Legitimate interest (Art. 6.1.f) |
+| Tax obligations and authority requests; defence of legal claims | Legal obligation (6.1.c); legitimate interest (6.1.f) |
 
-We do not use your data for advertising and we do not sell it.
+We do not make decisions based solely on automated processing that produce legal effects on you. Automated systems (for example request limits) may temporarily block a suspicious access, and the photo check may reject an inappropriate image: you can upload another one or ask us for a human review.
 
----
+## 4. Who sees your data
 
-## 4. Location
+**Other Users.** If you are a Provider, your profile (name or business name, category, description, area, profile photo if any, reviews) is visible to Clients. If you send a Request, the Provider sees the data needed to handle it. The chat is visible only to the two participants, but remember that what you write may be kept by them: it is outside our control.
 
-- **Providers:** to appear in "nearby" searches, a provider profile needs coordinates. They come from your phone's GPS, if you allow it, or from your business address (the address text is converted into coordinates by a mapping service, see section 6). If neither is available at registration, the app asks again at a later login.
-- **Clients:** your position is used at the moment of a search, with your permission, to show nearby professionals. It is not stored in your profile.
-- You can withdraw the location permission at any time from your phone settings.
+**Technical providers (processors).** They process data on our behalf, with only the instructions needed for the service. We do not sell or transfer your data to third parties for marketing.
 
----
+**Authorities.** We may disclose data when required by law or to protect a right.
 
-## 5. Profile Photos and Automated Checks
+## 5. Third-party services
 
-Photos are checked automatically when uploaded, where the check is available, to detect inappropriate content (for example sexually explicit or violent images) and the names or logos of other businesses. The image is sent only for this check. An image that does not meet our rules is rejected automatically; you can upload a different one or contact us. If the checking service is temporarily unavailable, the check may be skipped and the photo may be reviewed later. See our Terms of Service for the rules on photos.
+- **Supabase** – database (PostgreSQL) and storage of profile photos, with servers in Europe.
+- **Oracle Cloud** – application hosting, servers in Italy (Milan).
+- **Resend** – sending of transactional emails (OTP and service communications).
+- **Google Firebase Cloud Messaging** – sending of push notifications: it receives the device token and the notification text, which includes the sender's name and the first characters of a message.
+- **OpenStreetMap (Nominatim)** – conversion of the address into geographic coordinates: it receives the address, city and province, without your name.
+- **Google Cloud Vision** – automated check of uploaded profile photos: it receives the image (already resized and without metadata) only to detect inappropriate content and names or logos of other businesses. If the service is unavailable, the check may be skipped.
 
----
+Resend, Google and the OpenStreetMap Foundation may process data outside the European Economic Area (for example the United States and the United Kingdom). We rely on adequacy decisions (including the EU–US Data Privacy Framework for certified providers) or Standard Contractual Clauses. You can ask us for a copy of the safeguards.
 
-## 6. Who Receives Your Data
+## 6. Security and chats not end-to-end encrypted
 
-We do not sell your data. We use the following service providers, who process data on our behalf:
+We adopt appropriate technical and organisational measures: HTTPS/TLS encrypted communications, bcrypt password hashing, JWT token authentication (invalidated at logout), API request limits, and system access restricted to authorised personnel.
 
-- **Supabase** – database (PostgreSQL) and storage of profile photos, EU servers.
-- **Oracle Cloud** – application hosting, Italy (Milan).
-- **Resend** – delivery of transactional emails (verification and password reset codes).
-- **Google Firebase Cloud Messaging** – push notifications. It receives your device token and the notification text, which includes the sender's name and the first characters of a message.
-- **OpenStreetMap Nominatim** – converts a provider's address (street, city, province) into coordinates.
-- **Google Cloud Vision** – automated check of uploaded profile photos (section 5).
+**Chats are not end-to-end encrypted.** They travel over an encrypted connection, but are stored on our servers in a form readable by the system and may be accessed only by authorised personnel for support, reports, security or legal obligations. Do not send sensitive data in chat. No system is 100% secure: in the event of a data breach presenting risks to you, we will notify the supervisory authority within 72 hours where required and, if necessary, you.
 
-Other users see what you choose to publish: your profile information, profile photo, and reviews. The person you chat with sees your messages.
+## 7. How long we keep data
 
-Some of these providers may process data outside the European Economic Area. In that case we rely on the safeguards provided by data protection law, such as an adequacy decision or standard contractual clauses [verify for each provider].
+| Data | Retention |
+|---|---|
+| Account, profile, profile photo, requests, messages, reviews, blocks and reports | While the account is active; deleted with the account |
+| Replaced profile photo | The previous photo is deleted from our storage when it is replaced |
+| Chat deleted by only one participant | Remains visible to the other; permanently removed when both delete it or with the account |
+| OTP codes | A few minutes, until expiry or use |
+| Push notification tokens | Deleted with the account |
+| Invalidated session tokens (hash only) | Up to 8 days |
+| Access and security logs (including IP) | At most 30 days |
+| Moderation action log (sanctions, removals) | For the time needed to prevent circumvention and defend our rights |
+| Tax or accounting data, if applicable | For the period required by law |
+| Deletion request | From the app: immediate. By email: within 5 working days. Any residues (for example backups) within 30 days |
 
----
+## 8. Your rights
 
-## 7. Data Retention
+You have the right to access your data, rectify it, erase it, restrict its processing, object to processing based on legitimate interest, request portability, and withdraw consents (for example location and photo) without affecting processing already carried out. To exercise them write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) from your account email; we will reply within one month (extendable in complex cases) and may ask you to verify your identity. You can delete your account from **Settings › Account › Delete account** or as explained on the [Delete account](https://fastfixit.it/delete-account) page.
 
-- **Account data** is kept for the duration of your account.
-- **Deleting your account:** you can delete it at any time from the app settings, by confirming your password. Your profile, service requests, jobs, messages, reviews you wrote or received, blocks, reports, push token, and profile photo are permanently removed, and all personal data is removed from our systems within 30 days. Reviews you wrote or received disappear with your account and are no longer counted in the other user's rating.
-- **What may remain:** hashes of signed-out login tokens (until they expire), backup copies for a limited time [verify retention], and data we must keep by law or to defend a legal claim.
-- **One-time email codes** expire after 15 minutes. **Server and security logs** are kept for [retention period: verify].
+You have the right to lodge a complaint with the **Italian Data Protection Authority (Garante per la protezione dei dati personali)** (garanteprivacy.it) or the authority of the country where you reside. For users in Switzerland, Swiss data protection law remains applicable.
 
----
+## 9. Minors
 
-## 8. Your Rights (GDPR)
+FastFixIt is intended for users aged 16 or over (Providers must be of legal age). We do not knowingly collect data from minors under 16: if we find out, we close the account and delete the data.
 
-You have the right to access, rectify, and delete your data, to restrict or object to processing, to request data portability, and to withdraw consent at any time (withdrawing consent does not affect processing carried out before). To exercise your rights write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it); we reply within one month.
+## 10. Changes and contact
 
-You also have the right to lodge a complaint with a data protection authority. In Italy this is the Garante per la protezione dei dati personali (www.garanteprivacy.it); you can also contact the authority of your own country.
-
----
-
-## 9. Security
-
-We implement appropriate technical and organizational measures: HTTPS/TLS encryption in transit, bcrypt password hashing, signed login tokens with limited validity that are invalidated at sign-out and password change, API rate limiting, and restricted access to systems. In-app chat messages are not end-to-end encrypted.
-
----
-
-## 10. Minors
-
-FastFixIt is intended for users aged 16 or older. We do not knowingly collect data from users under 16. If you believe a minor has registered, contact us and we will delete the account.
-
----
-
-## 11. Changes to This Policy
-
-We may update this policy. For significant changes, we will notify you via in-app notification or email.
-
----
-
-## Contact
-
-For support, privacy requests, account deletion requests, security reports, or general inquiries:
-Email: [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it)
-
-We aim to respond as quickly as possible during business days.
-Thank you for using FastFixIt.
+We may update this notice; material changes will be communicated in the app or by email. For any question: [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
