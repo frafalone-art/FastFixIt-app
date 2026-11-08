@@ -1,162 +1,176 @@
 # Terms of Service
 
-**FastFixIt** – Your app for finding local professionals
-Last updated: November 2026
+**FastFixIt** – Last updated: November 2026 · Version 2.1
+
+> **Note.** This is a reference copy for GitHub. The complete and up-to-date Terms of Service are published on the website: <https://fastfixit.it/terms>
 
 ---
 
-## 1. Acceptance of Terms
+> **In short.** FastFixIt is only a tool that connects Clients with professionals. It does not provide the services, is not a party to the contracts between users, does not guarantee anyone, and is not responsible for what happens between them. Rules of conduct are in section 8; grounds for suspension and bans are in section 9.
 
-By using FastFixIt, you fully accept these Terms of Service. If you do not agree, please do not use the application.
-The full ToS are found on our official website: www.fastfixit.it/terms
+## 1. Operator and acceptance
 
----
+These Terms govern the use of the FastFixIt app, the [fastfixit.it](https://fastfixit.it) website and related services (the "Platform"). The Platform is operated by **Adriano Falone**, owner of FastFixIt, who can be reached at [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
 
-## 2. Description of Service
+By registering or using the Platform you declare that you have read and accepted these Terms and the [Privacy Policy](https://fastfixit.it/privacy). If you do not accept them, do not use the Platform. The [account deletion](https://fastfixit.it/delete-account) page and the rules shown in the app are also part of the agreement.
 
-FastFixIt is a platform allowing users (clients) to find and contact local professionals (providers) for maintenance, repair, and installation services.
+## 2. Definitions
 
-FastFixIt acts solely as an intermediary and is not a party to any agreement between client and provider. The app does not process payments: fees, quotes, and how the work is carried out are agreed directly between client and provider.
+- **Client**: anyone who uses the Platform to find a professional and send them a request.
+- **Provider**: an individual or company that registers to offer services through the Platform.
+- **User**: a Client or a Provider.
+- **Request**: the service request sent by a Client to a Provider.
+- **Content**: texts, messages, reviews, descriptions, names, profile photo (if any) and any other material entered by Users.
 
-The service is intended for users in Italy, Switzerland, San Marino, and Vatican City, and is currently available on Android.
+## 3. The role of FastFixIt: technology intermediary only
 
----
+> **FastFixIt is not a service provider.** It is a technology platform that lets you search for professionals by category and area, send requests, chat, receive notifications and leave reviews. Nothing more.
 
-## 3. Service Operator
+3.1. FastFixIt is **not a party** to any contract that may be concluded between Client and Provider: price, terms, timing, warranties and payment are decided solely between them.
 
-The service is operated by Adriano Falone.
-For any request: [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
+3.2. FastFixIt does not: (a) provide, perform, coordinate or supervise the services; (b) act as employer, principal, agent, partner, client or representative of the Providers; (c) select, recommend, assign or guarantee Providers or Clients; (d) guarantee the quality, safety, legality, punctuality, existence or outcome of any service; (e) set or control prices; (f) guarantee that a Provider will reply or be available; (g) act as mediator or arbitrator in disputes between Users.
 
----
+3.3. Providers operate fully independently and under their sole responsibility, including for tax, social security, insurance and workplace safety matters.
 
-## 4. Eligibility, Registration and Account
+3.4. **Payments.** The Platform does not process payments: the fee is agreed and paid directly between the parties, outside the Platform. If we introduce in-app payments in the future, this section will be updated before activation.
 
-- You must be at least 16 years old and confirm this at registration.
-- You must register with truthful and up-to-date information.
-- You are responsible for keeping your account credentials confidential.
-- Creating fake, multiple, or unauthorized accounts is prohibited.
-- Email verification is required to access the service.
+3.5. The information in profiles (category, description, area, business data, profile photo if any, reviews) is entered by Users. FastFixIt does not check it in advance and is not responsible for it.
 
----
+## 4. Exclusion of liability
 
-## 5. User Obligations
+4.1. To the extent permitted by law, FastFixIt is **not liable** for any damage, direct or indirect, pecuniary or non-pecuniary, arising from: services performed, not performed, delayed or non-conforming; defective work, injury to persons, damage to property or buildings; conduct, statements, breaches, scams or offences committed by Users; false statements about identity, qualifications, licences, insurance or VAT number; non-payment, advances, invoices, refunds and economic disputes; meetings or contacts outside the Platform; User Content and reviews; interruptions, errors, data loss, network, device or third-party provider malfunctions; use of the Platform in breach of the Terms.
 
-By using FastFixIt, you agree to:
+4.2. Users use the Platform at their own risk. Before assigning or accepting a job, they must carry out their own checks (identity, VAT number, licences, insurance, written quote, invoice).
 
-- Not post false, offensive, defamatory, or illegal content.
-- Not use the platform for fraudulent or unlawful activities.
-- Treat professionals and other users with respect.
-- Not attempt to bypass the platform's security systems.
-- Not use the chat for harassment, threats, spam, or unsolicited advertising.
+4.3. Liability that cannot be excluded by law (for example for wilful misconduct or gross negligence of FastFixIt) and the mandatory rights of consumers remain unaffected.
 
----
+## 5. Registration and checks
 
-## 5-bis. Provider Accounts and Provider Obligations
+5.1. You must provide truthful and up-to-date data and keep your credentials safe: you are responsible for everything that happens with your account. **Verification of your email address by one-time code (OTP)** is mandatory. Never share passwords or codes: FastFixIt never asks for them.
 
-- Providers must hold the professional qualifications required by the law applicable to the services offered (in Italy, Italian law).
-- Profile information (VAT number, categories, description, business address, and contact details) must be truthful and current. The VAT number must be valid and not already registered on the platform.
-- FastFixIt does not verify provider qualifications. The responsibility for choosing a provider lies with the user.
-- A provider's location (address or coordinates) is used to show the provider to nearby clients: without a location, the profile does not appear in nearby searches.
+5.2. **Age.** Clients must be at least 16; Providers must be of legal age. If a false declaration is found, the account is closed.
 
-**Becoming a provider with an existing account.** A registered client may become a provider with the same account, by supplying the business details required of providers (business name, owner, VAT number, categories, address).
+5.3. **Providers' VAT number.** At registration the system accepts only a VAT number in the **correct format** (automatic formal check) and checks that it is not already registered by another Provider. In **some cases** (for example reports, anomalies, sample checks, legal obligations) and at our discretion, we may carry out further checks with public sources or request documents.
 
-- From that moment the account is a provider account, the obligations in this section apply, and the account can no longer send service requests as a client.
-- This change cannot be reverted from within the app: to change it, contact [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
-- A client with open service requests cannot become a provider until those requests are concluded.
+5.4. None of these checks, nor any "verified" indicator, constitutes a certification, licence, proof of competence, or proof of tax, social security or insurance compliance, nor a recommendation or guarantee. A formal check only shows that the number is written correctly. The absence of a check does not mean irregularity, and its presence does not mean reliability.
 
----
+5.5. The Provider declares and warrants that business data is true and that they hold all authorisations, registrations, licences and insurance required for their activity in the country where they operate.
 
-## 6. Service Requests and Chat
+5.6. One account per person. You may not use the Platform if you have been permanently banned, unless we authorise you in writing.
 
-- A client can send service requests to providers; the provider can accept or decline them. The status of a request is visible to both.
-- Clients and providers can exchange text messages in the app. The chat does not support sending photos.
-- Messages are not end-to-end encrypted: they are stored on our systems to operate the service and may be reviewed if reported by a user.
-- We use push notifications to alert you about requests and messages; you can turn them off in your phone settings.
-- Do not share sensitive or payment details in the chat.
+5.7. **Becoming a Provider with an existing account.** A Client may become a Provider with the same account, by supplying the business details required of Providers and provided that they are of legal age (point 5.2). From that moment the account is a Provider account: points 3.3, 5.3, 5.4 and 5.5 apply and the account can no longer send Requests as a Client. The change is not possible while there are still open Requests and cannot be reverted from within the app: to change it, write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it).
 
----
+## 6. Countries where the Platform is available
 
-## 7. Profile Photos and Acceptable Use
+6.1. The Platform is intended for Users located in **Italy, Switzerland, San Marino and Vatican City**. Services are local services, to be performed physically in the area indicated by the Provider.
 
-- A profile photo is optional. It must show you or your own work or business, and you must have the right to use it.
-- You may not upload images that are sexually explicit or suggestive, violent or graphic, hateful or discriminatory, political or propaganda material, illegal, or that infringe the rights of others.
-- You may not upload images showing the name, logo, or advertising of another business, in particular competing platforms or services.
-- Photos are checked by automated tools when uploaded, where the check is available. An image that does not meet these rules is rejected and is not saved. A photo that passed the check may still be removed later if it violates these rules.
-- Before saving, the photo is resized and its metadata (such as camera data and GPS location) is removed. Your profile photo is visible to other users of the app.
+6.2. Use from other countries is not promoted and may be restricted or blocked. Anyone using the Platform does so in compliance with the laws of the country where they are or operate. We may extend or restrict the available countries at any time for technical, legal, security or commercial reasons.
 
----
+6.3. Use by persons or countries subject to applicable sanctions or restrictions is prohibited.
 
-## 8. Reviews
+## 7. How it works
 
-Reviews may be left by clients after a completed job and must be honest and based on real experiences. Fake or manipulated reviews, including reviews given in exchange for benefits, are prohibited.
+7.1. **Requests.** The Client sends a Request to a Provider, who may accept or decline it.
 
-FastFixIt may hide or remove reviews that violate these rules, including after a report, and such reviews are excluded from the provider's rating.
+7.2. **Chat.** Users can exchange text messages to organise the service. **The chat is not end-to-end encrypted**: messages travel over an encrypted connection (HTTPS/TLS) but are stored on our servers and may be accessed only by authorised personnel for support, reports, security or legal obligations. Do not send sensitive data in chat (cards, PINs, passwords, OTP codes, documents).
 
----
+7.3. **Notifications.** We may send you push notifications and service communications (including maintenance or security). You can turn off notifications from your device.
 
-## 9. Reports, Blocking and Account Suspension
+7.4. **Reviews.** They must be truthful, based on direct experience and not offensive. It is forbidden to buy or trade them, or to threaten or offer benefits to obtain or remove them. We may remove reviews that breach these rules and sanction their author.
 
-- You can block another user and report users, reviews, or inappropriate content from the app.
-- FastFixIt may review reported content and remove it, warn the author, suspend the account temporarily or permanently, or close it in case of violations of these Terms or fraudulent behavior.
-- If your account is suspended, you can write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) to ask for clarification.
+7.5. **Blocks and reports.** You can block and report other Users. To prevent abuse of reviews, a Provider may block a Client who has not yet left a review only for serious reasons (such as inappropriate behaviour or fraud). Reports are reviewed by us, with no obligation as to outcome.
 
----
+7.6. **Technical limits.** For security we apply limits on the number of requests, messages, reviews and reports. We do not guarantee uninterrupted operation: maintenance, interruptions and changes to features are possible.
+
+## 8. Misuse
+
+It is forbidden to:
+
+- provide false data, use another person's identity, or create multiple accounts to bypass limits or suspensions;
+- claim qualifications, licences, insurance, VAT numbers or experience that are untrue, or register for categories you do not actually practise;
+- harass, threaten, insult, discriminate against, defame or stalk other Users;
+- publish sexually explicit, violent, hateful or illegal content;
+- upload as a profile photo images showing the names, logos or advertising of other businesses (in particular competing platforms or services) or political propaganda;
+- propose or carry out scams: advances without doing the work, misleading quotes, fake interventions, false invoicing;
+- use other Users' data (phone, email, address) for purposes other than the requested service: spam, marketing, resale, profiling;
+- write or commission false, retaliatory or self-promotional reviews, or unfounded and repeated reports;
+- attack or bypass security: scanning, endpoint enumeration, brute force, exploits, injections, request or connection flooding, denial of service;
+- use bots, scripts, scrapers or automated systems to access data or create accounts and requests;
+- reverse engineer, decompile or modify the app; upload non-compliant files or photos (malware, disguised files, illegal content);
+- bypass blocks, suspensions, request limits or age checks;
+- use the Platform for unlawful activities, or in a way that harms its operation or image.
+
+## 9. Suspension, bans and account closure
+
+9.1. **Grounds.** We may warn, restrict features, remove content, **suspend (for a period or indefinitely) or permanently ban** an account when, reasonably:
+
+- you breach the Terms or the Privacy Policy, in particular section 8;
+- you provide false data or documents, or fail to complete a requested check (including of the VAT number);
+- you receive well-founded or repeated reports of scams, misconduct, threats, harassment or failure to perform services;
+- you post reviews or content that is prohibited, or manipulate reviews and search results;
+- you endanger the safety or physical integrity of other Users or the Platform;
+- you attempt to bypass security, limits, blocks or age verification, or open new accounts to evade a ban;
+- you use the Platform for unlawful activities or activities contrary to the law;
+- we are required to do so by law, an authority or a court order.
+
+9.2. The measure is proportionate to seriousness, repetition and risk. For serious breaches (scams, threats, unlawful content, cyberattacks, minors) the ban may be **immediate and without notice**.
+
+9.3. **Notice.** As a rule we write to you by email stating the measure, the reason and, for temporary suspensions, the end date. For Providers who are professionals or businesses we comply, within legal limits, with the statement-of-reasons and notice obligations of Regulation (EU) 2019/1150, except for serious breaches or legal obligations.
+
+9.4. **Complaints.** You can challenge the decision by writing to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) within 30 days. Reversal is not guaranteed.
+
+9.5. **Effects.** With suspension or a ban you lose access to the account and your profile may be hidden or removed. A ban does not release you from obligations already assumed towards other Users.
+
+9.6. We may suspend or discontinue the Platform in whole or in part, even temporarily, for maintenance, security, or technical or legal reasons.
 
 ## 10. User Content
 
-You remain the owner of the content you publish (profile photo, description, reviews, messages). You grant us a free, non-exclusive license, limited to this purpose, to display and store it within the service for as long as you keep your account. You confirm that you have the right to publish it.
+10.1. You remain the owner of the Content you enter. You grant us a non-exclusive, free, worldwide and limited licence to host it, show it to other Users according to the chosen function and technically adapt it (for example resizing the **profile photo, if any**) solely to make the Platform work. The licence ends on deletion, except as needed by law.
 
----
+10.2. You warrant that you hold the rights to the Content, that it does not infringe third-party rights or the law and that, if it contains personal data or images of other people, you have their consent. Any profile photo must show you or represent your business.
 
-## 11. Liability
+10.3. We may remove or disable Content that breaches the Terms or the law. To report unlawful content write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) stating where it is and why.
 
-FastFixIt is not liable for:
+10.4. **Profile photo.** The profile photo is optional and must comply with point 10.2. Images that are sexually explicit or suggestive, violent or graphic, hateful or discriminatory, political propaganda, unlawful, or that show the names, logos or advertising of other businesses (in particular competing platforms or services) are not allowed. Photos are checked by automated tools when uploaded, where available: a non-compliant image is rejected and is not saved, and a photo that passed the check may still be removed later. Before saving, the photo is resized and its metadata (for example camera data and GPS location) is removed. If the automated check is temporarily unavailable, it may be skipped and the photo reviewed later.
 
-- The quality, timeliness, or outcome of services provided by providers.
-- Damages arising from direct agreements between clients and providers, including payments.
-- Service interruptions due to maintenance or force majeure.
-- Temporary or permanent suspension of the service, for any reason, including business decisions, extraordinary maintenance, technical issues, or force majeure.
+## 11. Intellectual property
 
-Nothing in these Terms excludes or limits any liability that cannot be excluded or limited by law, or the mandatory rights of consumers.
+11.1. The Platform, the name and logo "FastFixIt", source code, design, interface, databases, and original texts and graphics are the exclusive property of FastFixIt (or its licensors) and are protected by copyright, trademark, database and unfair competition laws. No rights are transferred to you except as provided here.
 
----
+11.2. We grant you a personal, limited, revocable, non-exclusive and non-transferable licence to use the app in accordance with the Terms.
 
-## 12. Intellectual Property
+11.3. Without our written authorisation you may not: copy, modify, distribute, sell, rent or sublicense the Platform; reverse engineer or extract code or data; systematically extract data or profiles (scraping); use the name, logo or marks, including in domains, social profiles or apps that may cause confusion; create competing services exploiting the Platform's content.
 
-The FastFixIt name, logo, design, and original content are the exclusive property of FastFixIt and protected by copyright law. Any unauthorized reproduction is prohibited.
+11.4. Any suggestions or feedback you send may be used freely by FastFixIt without compensation. Breaching this section may result in a ban and actions for damages.
 
----
+## 12. Warranties and limitation of liability
 
-## 13. Third-Party Services and Privacy
+12.1. The Platform is provided "as is" and "as available". We do not guarantee that it is free of errors or interruptions, nor that Providers are available, qualified, compliant or reliable.
 
-To work, the app uses third-party services (for example hosting, email delivery, push notifications, maps, and image checking). How we handle your data is explained in the Privacy Policy: https://fastfixit.it/privacy
+12.2. To the extent permitted by law, FastFixIt's liability to a User for damages arising from use of the Platform is limited to direct and foreseeable damages, and in any case excluded as provided in section 4. Cases where the law does not allow limitation remain outside the limit.
 
----
+## 13. Indemnification
 
-## 14. Account Deletion
+The User shall indemnify FastFixIt and its owner against claims, damages, penalties and expenses (including reasonable legal fees) arising from: breach of the Terms or the law; Content entered; false statements; services provided or received and relationships with other Users. For consumers the clause applies within the limits of the law.
 
-You may delete your account at any time from the app settings, by confirming with your password. Information about the procedure: https://fastfixit.it/delete-account
+## 14. Account deletion
 
-Deletion results in permanent removal of your personal data, including your profile photo, within 30 days. We may keep only the data that the law requires us to retain or that is needed to defend a legal claim.
+You can delete your account at any time from **Settings › Account › Delete account** (confirming with your password) or by writing to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it), as explained on the [Delete account](https://fastfixit.it/delete-account) page. Deletion is permanent and entails deletion of data in accordance with the [Privacy Policy](https://fastfixit.it/privacy).
 
----
+## 15. Changes to the Terms
 
-## 15. Changes to Terms
+We may amend the Terms for legal, technical or organisational reasons. Material changes will be notified in the app or by email at least 15 days in advance, except for legal or security emergencies. If you keep using the Platform you accept the new version; otherwise you can delete your account.
 
-FastFixIt reserves the right to modify these terms. Significant changes will be communicated via in-app notification with at least 15 days' notice.
+## 16. Governing law and jurisdiction
 
----
+The Terms are governed by **Italian law**, without prejudice to mandatory consumer protection rules. For disputes with consumers, the court of the consumer's place of residence or domicile is competent, if in Italy; for other disputes the **courts of Pescara (Italy)** are competent.
 
-## 16. Governing Law and Jurisdiction
+## 17. General provisions and specific approval
 
-These terms are governed by Italian law. The court of Pescara has jurisdiction over disputes with professional users. If you are a consumer, the mandatory rules for your protection remain unaffected, including the jurisdiction of the court of the place where you reside or are domiciled.
+The Terms and the Privacy Policy constitute the entire agreement. If a clause is void, the others remain valid. Failure to exercise a right is not a waiver. We may assign the Terms in the event of a transfer of the business; you may not, without our consent.
 
----
+Pursuant to Articles 1341 and 1342 of the Italian Civil Code, Providers and other Users acting for professional purposes declare that they have read and specifically approve clauses: **3** (role as intermediary), **4** (exclusion of liability), **9** (suspension and bans), **11** (intellectual property), **12** (limitation of liability), **13** (indemnification), **15** (changes) and **16** (jurisdiction).
 
-## Contact
+## 18. Contact
 
-For support, privacy requests, account deletion requests, security reports, or general inquiries:
-Email: [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it)
-
-We aim to respond as quickly as possible during business days.
-Thank you for using FastFixIt.
+**FastFixIt** – Adriano Falone · [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) · [fastfixit.it](https://fastfixit.it)
