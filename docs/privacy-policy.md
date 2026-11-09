@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**FastFixIt** – Last updated: November 2026 · Version 2.1
+**FastFixIt** – Last updated: November 2026 · Version 2.3
 
 > **Note.** This is a reference copy for GitHub. The complete and up-to-date Privacy Policy is published on the website: <https://fastfixit.it/privacy>
 
@@ -22,9 +22,9 @@ The data controller is **Adriano Falone**, owner of FastFixIt (FastFixIt app and
 - **Blocks and reports:** the Users you block or report, the reason given, and reports concerning you.
 - **Measures:** if your account is suspended or banned, the reason, duration and date.
 - **One-time codes (OTP):** sent by email to verify your address; they are short-lived and allow a limited number of attempts.
-- **Technical data:** your device's push notification token (FCM); session tokens (kept as hashes after logout); IP address and security logs used for request limits and abuse prevention.
+- **Technical data:** your device's push notification token (FCM); session tokens (kept as hashes after logout); IP address and security logs used for request limits and abuse prevention. The position you send to search for nearby professionals may appear in technical logs, together with the IP, for the period shown in the retention table. On the website we save in the browser only your language preference.
 
-The app does **not process payments** or card data, and does not ask you for special categories of data (health, religion, political opinions, sexual orientation): please do not enter them in chats and descriptions.
+The app does **not process payments** or card data, and does not ask you for special categories of data (health, religion, political opinions, sexual orientation): please do not enter them in chats and descriptions. Registration data is necessary to create the account and use the service: without it we cannot provide it. Location, profile photo and notifications are optional.
 
 ## 3. Why we use it and on what basis
 
@@ -32,6 +32,7 @@ The app does **not process payments** or card data, and does not ask you for spe
 |---|---|
 | Creating the account, verifying email (OTP), authenticating you | Contract (Art. 6.1.b) |
 | Provider search, requests, chat, notifications, reviews, profile visible to other Users | Contract (Art. 6.1.b) |
+| Provider coordinates derived from the business address, to appear in nearby searches | Contract (Art. 6.1.b) |
 | Service communications (password reset, maintenance, security) | Contract (Art. 6.1.b) |
 | Location and profile photo | Consent (Art. 6.1.a), revocable |
 | Automated check of profile photos (inappropriate content, names or logos of other businesses) | Legitimate interest in platform safety (Art. 6.1.f) |
@@ -55,7 +56,7 @@ We do not make decisions based solely on automated processing that produce legal
 - **Oracle Cloud** – application hosting, servers in Italy (Milan).
 - **Resend** – sending of transactional emails (OTP and service communications).
 - **Google Firebase Cloud Messaging** – sending of push notifications: it receives the device token and the notification text, which includes the sender's name and the first characters of a message.
-- **OpenStreetMap (Nominatim)** – conversion of the address into geographic coordinates: it receives the address, city and province, without your name.
+- **OpenStreetMap (Nominatim)** – conversion of the address into geographic coordinates: it receives the address, city and province, without your name. It is a public service that acts as an independent party, not as our processor.
 - **Google Cloud Vision** – automated check of uploaded profile photos: it receives the image (already resized and without metadata) only to detect inappropriate content and names or logos of other businesses. If the service is unavailable, the check may be skipped.
 
 Resend, Google and the OpenStreetMap Foundation may process data outside the European Economic Area (for example the United States and the United Kingdom). We rely on adequacy decisions (including the EU–US Data Privacy Framework for certified providers) or Standard Contractual Clauses. You can ask us for a copy of the safeguards.
@@ -72,7 +73,7 @@ We adopt appropriate technical and organisational measures: HTTPS/TLS encrypted 
 |---|---|
 | Account, profile, profile photo, requests, messages, reviews, blocks and reports | While the account is active; deleted with the account |
 | Replaced profile photo | The previous photo is deleted from our storage when it is replaced |
-| Chat deleted by only one participant | Remains visible to the other; permanently removed when both delete it or with the account |
+| Chat deleted by only one participant | Remains visible to the other for 7 days after deletion, then the messages are permanently deleted for both; deletion takes place with the daily cleanup, earlier if both delete it; always with the account |
 | OTP codes | A few minutes, until expiry or use |
 | Push notification tokens | Deleted with the account |
 | Invalidated session tokens (hash only) | Up to 8 days |
@@ -89,7 +90,7 @@ You have the right to lodge a complaint with the **Italian Data Protection Autho
 
 ## 9. Minors
 
-FastFixIt is intended for users aged 16 or over (Providers must be of legal age). We do not knowingly collect data from minors under 16: if we find out, we close the account and delete the data.
+FastFixIt is reserved for adults (aged 18 or over). We do not knowingly collect data from minors under 18: if we find out, we close the account and delete the data.
 
 ## 10. Changes and contact
 
