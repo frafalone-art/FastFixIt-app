@@ -1,6 +1,6 @@
 # Terms of Service
 
-**FastFixIt** – Last updated: November 2026 · Version 2.1
+**FastFixIt** – Last updated: November 2026 · Version 2.3
 
 > **Note.** This is a reference copy for GitHub. The complete and up-to-date Terms of Service are published on the website: <https://fastfixit.it/terms>
 
@@ -36,6 +36,8 @@ By registering or using the Platform you declare that you have read and accepted
 
 3.5. The information in profiles (category, description, area, business data, profile photo if any, reviews) is entered by Users. FastFixIt does not check it in advance and is not responsible for it.
 
+3.6. Providers act as professionals, in the course of their business: the contract for the service is concluded only between Client and Provider, who is responsible for it, and consumers keep their statutory protections against the Provider. FastFixIt is not a party to that contract.
+
 ## 4. Exclusion of liability
 
 4.1. To the extent permitted by law, FastFixIt is **not liable** for any damage, direct or indirect, pecuniary or non-pecuniary, arising from: services performed, not performed, delayed or non-conforming; defective work, injury to persons, damage to property or buildings; conduct, statements, breaches, scams or offences committed by Users; false statements about identity, qualifications, licences, insurance or VAT number; non-payment, advances, invoices, refunds and economic disputes; meetings or contacts outside the Platform; User Content and reviews; interruptions, errors, data loss, network, device or third-party provider malfunctions; use of the Platform in breach of the Terms.
@@ -48,7 +50,7 @@ By registering or using the Platform you declare that you have read and accepted
 
 5.1. You must provide truthful and up-to-date data and keep your credentials safe: you are responsible for everything that happens with your account. **Verification of your email address by one-time code (OTP)** is mandatory. Never share passwords or codes: FastFixIt never asks for them.
 
-5.2. **Age.** Clients must be at least 16; Providers must be of legal age. If a false declaration is found, the account is closed.
+5.2. **Age.** You must be at least 18 (legal age) and declare it when registering; anyone changing from Client to Provider confirms it again. If a false declaration is found, the account is closed.
 
 5.3. **Providers' VAT number.** At registration the system accepts only a VAT number in the **correct format** (automatic formal check) and checks that it is not already registered by another Provider. In **some cases** (for example reports, anomalies, sample checks, legal obligations) and at our discretion, we may carry out further checks with public sources or request documents.
 
@@ -76,11 +78,13 @@ By registering or using the Platform you declare that you have read and accepted
 
 7.3. **Notifications.** We may send you push notifications and service communications (including maintenance or security). You can turn off notifications from your device.
 
-7.4. **Reviews.** They must be truthful, based on direct experience and not offensive. It is forbidden to buy or trade them, or to threaten or offer benefits to obtain or remove them. We may remove reviews that breach these rules and sanction their author.
+7.4. **Reviews.** They must be truthful, based on direct experience and not offensive. It is forbidden to buy or trade them, or to threaten or offer benefits to obtain or remove them. Only Clients who have an accepted or completed Request with that Provider can review them; we do not verify that the work was actually carried out. We may remove reviews that breach these rules and sanction their author.
 
 7.5. **Blocks and reports.** You can block and report other Users. To prevent abuse of reviews, a Provider may block a Client who has not yet left a review only for serious reasons (such as inappropriate behaviour or fraud). Reports are reviewed by us, with no obligation as to outcome.
 
 7.6. **Technical limits.** For security we apply limits on the number of requests, messages, reviews and reports. We do not guarantee uninterrupted operation: maintenance, interruptions and changes to features are possible.
+
+7.7. **Ranking of results.** In the "near you" search, Providers are ordered by increasing distance from the indicated position, within the chosen radius. At present there are no paid placements or preferential treatment for individual Providers.
 
 ## 8. Misuse
 
@@ -113,7 +117,7 @@ It is forbidden to:
 - you use the Platform for unlawful activities or activities contrary to the law;
 - we are required to do so by law, an authority or a court order.
 
-9.2. The measure is proportionate to seriousness, repetition and risk. For serious breaches (scams, threats, unlawful content, cyberattacks, minors) the ban may be **immediate and without notice**.
+9.2. The measure is proportionate to seriousness, repetition and risk. For serious breaches (scams, threats, unlawful content or content involving minors, cyberattacks) the ban may be **immediate and without notice**.
 
 9.3. **Notice.** As a rule we write to you by email stating the measure, the reason and, for temporary suspensions, the end date. For Providers who are professionals or businesses we comply, within legal limits, with the statement-of-reasons and notice obligations of Regulation (EU) 2019/1150, except for serious breaches or legal obligations.
 
@@ -129,7 +133,7 @@ It is forbidden to:
 
 10.2. You warrant that you hold the rights to the Content, that it does not infringe third-party rights or the law and that, if it contains personal data or images of other people, you have their consent. Any profile photo must show you or represent your business.
 
-10.3. We may remove or disable Content that breaches the Terms or the law. To report unlawful content write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) stating where it is and why.
+10.3. We may remove or disable Content that breaches the Terms or the law. To report unlawful content write to [assistenza@fastfixit.it](mailto:assistenza@fastfixit.it) stating where it is (user, profile, review or message), why it is unlawful or prohibited, your name and email, and a statement that the report is made in good faith. We confirm receipt and tell you the outcome. When we remove or restrict Content or an account we tell you the reason and how to contest the decision (point 9.4); some decisions rely on automated tools (such as the photo check, point 10.4) and you can ask for review by a person.
 
 10.4. **Profile photo.** The profile photo is optional and must comply with point 10.2. Images that are sexually explicit or suggestive, violent or graphic, hateful or discriminatory, political propaganda, unlawful, or that show the names, logos or advertising of other businesses (in particular competing platforms or services) are not allowed. Photos are checked by automated tools when uploaded, where available: a non-compliant image is rejected and is not saved, and a photo that passed the check may still be removed later. Before saving, the photo is resized and its metadata (for example camera data and GPS location) is removed. If the automated check is temporarily unavailable, it may be skipped and the photo reviewed later.
 
@@ -145,13 +149,13 @@ It is forbidden to:
 
 ## 12. Warranties and limitation of liability
 
-12.1. The Platform is provided "as is" and "as available". We do not guarantee that it is free of errors or interruptions, nor that Providers are available, qualified, compliant or reliable.
+12.1. The Platform is provided "as is" and "as available". We do not guarantee that it is free of errors or interruptions, nor that Providers are available, qualified, compliant or reliable. Consumers' statutory conformity rights for digital services remain unaffected.
 
-12.2. To the extent permitted by law, FastFixIt's liability to a User for damages arising from use of the Platform is limited to direct and foreseeable damages, and in any case excluded as provided in section 4. Cases where the law does not allow limitation remain outside the limit.
+12.2. To the extent permitted by law, FastFixIt's liability to a User for damages arising from use of the Platform is limited to direct and foreseeable damages, and in any case excluded as provided in section 4. The limit does not apply in case of death or personal injury, wilful misconduct or gross negligence, or in any other case where the law does not allow it.
 
 ## 13. Indemnification
 
-The User shall indemnify FastFixIt and its owner against claims, damages, penalties and expenses (including reasonable legal fees) arising from: breach of the Terms or the law; Content entered; false statements; services provided or received and relationships with other Users. For consumers the clause applies within the limits of the law.
+A User acting for professional purposes (in particular the Provider) shall indemnify FastFixIt and its owner against claims, damages, penalties and expenses (including reasonable legal fees) arising from: breach of the Terms or the law; Content entered; false statements; services provided and relationships with other Users. The clause does not apply to consumers.
 
 ## 14. Account deletion
 
@@ -159,17 +163,17 @@ You can delete your account at any time from **Settings › Account › Delete a
 
 ## 15. Changes to the Terms
 
-We may amend the Terms for legal, technical or organisational reasons. Material changes will be notified in the app or by email at least 15 days in advance, except for legal or security emergencies. If you keep using the Platform you accept the new version; otherwise you can delete your account.
+We may amend the Terms for legal, technical or organisational reasons. Material changes will be notified in the app or by email at least 15 days in advance, except for legal or security emergencies, and to keep using the Platform we will ask you to accept them again in the app. If you do not accept them you can delete your account.
 
 ## 16. Governing law and jurisdiction
 
-The Terms are governed by **Italian law**, without prejudice to mandatory consumer protection rules. For disputes with consumers, the court of the consumer's place of residence or domicile is competent, if in Italy; for other disputes the **courts of Pescara (Italy)** are competent.
+The Terms are governed by **Italian law**, without prejudice to mandatory consumer protection rules. For disputes with consumers, the court of the consumer's place of residence or domicile is competent according to the applicable rules (even if outside Italy); for disputes with professionals the **courts of Pescara (Italy)** are competent.
 
 ## 17. General provisions and specific approval
 
-The Terms and the Privacy Policy constitute the entire agreement. If a clause is void, the others remain valid. Failure to exercise a right is not a waiver. We may assign the Terms in the event of a transfer of the business; you may not, without our consent.
+The Terms and the Privacy Policy, together with the information and rules shown in the app and the account deletion page, constitute the entire agreement. If a clause is void, the others remain valid. Failure to exercise a right is not a waiver. We may assign the Terms in the event of a transfer of the business; you may not, without our consent.
 
-Pursuant to Articles 1341 and 1342 of the Italian Civil Code, Providers and other Users acting for professional purposes declare that they have read and specifically approve clauses: **3** (role as intermediary), **4** (exclusion of liability), **9** (suspension and bans), **11** (intellectual property), **12** (limitation of liability), **13** (indemnification), **15** (changes) and **16** (jurisdiction).
+Pursuant to Articles 1341 and 1342 of the Italian Civil Code, the User declares that they have read and specifically approve clauses: **3** (role as intermediary), **4** (exclusion of liability), **6.2** (changes to available countries), **7.6** (technical limits and interruptions), **9** (suspension, bans and time limit for complaints), **11** (intellectual property), **12** (limitation of liability), **13** (indemnification), **15** (changes), **16** (jurisdiction) and **17** (assignment of the agreement).
 
 ## 18. Contact
 
